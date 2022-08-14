@@ -1,7 +1,3 @@
-I verify that I am the sole author of the programmes contained in this archive, except where explicitly stated to the contrary.
-
-Author:weibo zhao
-
 This project builds an AI that can play the Japanese board game Hanabi,
 The project code is mainly composed of the following three parts
 
